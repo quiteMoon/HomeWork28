@@ -1,0 +1,20 @@
+.news-item {
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+    margin: 1rem 0;
+}
+
+.news-item h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.news-item p {
+    margin: 0.5rem 0;
+    color: #666;
+}
+
+.news-item small {
+    color: #999;
+}
